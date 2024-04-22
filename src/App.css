@@ -1,6 +1,6 @@
 body {
   background-color: #000000;
-  background-image: url(/Users/jerrycox/Documents/dev/warcraft-quiz/public/wowBackground.jpg);
+  background-image: url(/public/wowBackground.jpg);
   background-size: cover;
   color: #ffffff;
   display: flex;
@@ -12,7 +12,7 @@ body {
 
 .app {
   background-color: #252d4a;
-  background-image: url(/Users/jerrycox/Documents/dev/warcraft-quiz/public/questionBackground.jpg);
+  background-image: url(/public/questionBackground.jpg);
   width: 450px;
   min-height: 200px;
   height: min-content;
